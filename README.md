@@ -18,3 +18,6 @@ FEATURES:
 ### For more information:
 https://machinelearningprojects.net/face-recognition-based-attendance-system/
 
+###PPT AND DOCUMENT LINK:
+https://drive.google.com/drive/folders/1ZILZyFOCWjtBaf4FgnKLQVRI9oWlJYBf?usp=share_link
+
